@@ -1,0 +1,11 @@
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\bin\Debug\VbPractice.exe.config
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\bin\Debug\VbPractice.exe
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\bin\Debug\VbPractice.pdb
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\bin\Debug\VbPractice.xml
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\obj\Debug\VbPractice.vbprojAssemblyReference.cache
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\obj\Debug\VbPractice.Resources.resources
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\obj\Debug\VbPractice.vbproj.GenerateResource.cache
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\obj\Debug\VbPractice.vbproj.CoreCompileInputs.cache
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\obj\Debug\VbPractice.exe
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\obj\Debug\VbPractice.xml
+C:\Users\NickTsai\Documents\GitHub\VbDotNetPractice\VbPractice\VbPractice\obj\Debug\VbPractice.pdb
